@@ -1,2 +1,1 @@
-
-To overide creation of .gitignore: cargo new --vcs=git
+[@rustdocs](https://www.rust-lang.org/learn) : the best place to learn rust.
